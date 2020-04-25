@@ -1,0 +1,43 @@
+
+#icon{	width: 3%;
+	float: left;
+}
+
+#top_strip{color: white;
+	background-color: rgb(212, 0, 39);
+	font-size: 30px;
+	font-family: Segoe UI Black;
+	text-align: center;
+	width: 100%;
+}
+
+#img{	width:40%;
+	float: right;
+}
+
+#box{	border: 4px;
+	border-color: green;
+	color: black;
+	width: 40%;
+	height: 70%;
+	float: right;
+	margin: auto;
+}
+
+#box1{	
+	width: 60%;
+	float: right;
+}
+
+#option{
+    background-color: tomato;
+    color: white;
+    padding: 10px 5px 10px 5px;
+	align: center;
+} 
+
+#entry{
+    background-color: orange;
+    color: white;
+	align: center;
+} 
